@@ -1,6 +1,8 @@
 # what is Artificial Intelligence(AI):
 
 - Artificial Intelligence (AI) refers to the technology that allows machines and computers to replicate human intelligence.
+- Artificial intelligence (AI) enables machines to perform tasks that typically require human intelligence, such as reasoning, learning, problem-solving, perception, language understanding, and decision-making. AI can analyze vast data, detect patterns, automate repetitive work, and provide personalized recommendations
+
 - #### real-Life Examples of AI:
 
 1. **Google Maps**:  
