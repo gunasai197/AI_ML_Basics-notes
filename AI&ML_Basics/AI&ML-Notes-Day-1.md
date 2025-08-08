@@ -55,7 +55,6 @@ Supervised learning:
 
 Classification is used when you want to categorize data into different classes or groups. For example, classifying emails as "spam" or "not spam" or predicting whether a patient has a certain disease based on their symptoms. Here are some common types of classification models:
 
-1. ***Decision Tree Classification****: Builds a tree where each node represents a test case for an attribute, and branches represent possible outcomes.
-2. ****Random Forest Classification****: Uses an ensemble of decision trees to make predictions, improving accuracy by averaging the results from multiple trees.
-3. ****K-Nearest Neighbor (KNN)****: Classifies data points based on the 'k' nearest neighbors using feature similarity
-4. 
+	1. ***Decision Tree Classification****: Builds a tree where each node represents a test case for an attribute, and branches represent possible outcomes.
+	2. ***Random Forest Classification****: Uses an ensemble of decision trees to make predictions, improving accuracy by averaging the results from multiple trees.
+	3. ***K-Nearest Neighbor (KNN)****: Classifies data points based on the 'k' nearest neighbors using feature similarity
