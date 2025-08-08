@@ -14,7 +14,7 @@
     
 4. **Self-driving Cars (like Tesla)**:  
     Use sensors, cameras, and AI to drive on roads without human help.
-## What is Machine Learning (ML):
+# What is Machine Learning (ML):
 
 Machine Learning (ML) is a subset of AI where computers learn patterns from data and improve their performance over time without explicit programming
 
