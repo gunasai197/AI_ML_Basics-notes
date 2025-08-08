@@ -51,3 +51,5 @@ Supervised learning:
 	3. Email automation and spam filtering
 	4. Financial fraud detection
 
+# Classification vs Regression in Machine Learning
+
