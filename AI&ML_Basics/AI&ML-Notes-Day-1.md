@@ -49,4 +49,3 @@ Supervised learning:
 	3. Email automation and spam filtering
 	4. Financial fraud detection
 
-hi i am gunasai 
