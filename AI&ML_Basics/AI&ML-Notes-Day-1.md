@@ -64,3 +64,5 @@ Regression in machine learning is a supervised learning technique used to predic
        - Linear regression: Assumes a straight-line relationship between inputs and output.
 	   - Multiple linear regression: Uses several input variables for prediction.
 	   - Polynomial regression: Can model nonlinear relationships.
+
+
