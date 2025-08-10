@@ -61,9 +61,7 @@ Classification is used when you want to categorize data into different classes o
 
 Regression in machine learning is a supervised learning technique used to predict continuous numerical values by modeling the relationship between one or more input features (independent variables) and a target variable (dependent variable)
 
-Common types include:
-
-	- Linear regression: Assumes a straight-line relationship between inputs and output.
-Multiple linear regression: Uses several input variables for prediction.
-	
-	- Polynomial regression: Can model nonlinear relationships.
+#### Common types include:
+       - Linear regression: Assumes a straight-line relationship between inputs and output.
+	   - Multiple linear regression: Uses several input variables for prediction.
+	   - Polynomial regression: Can model nonlinear relationships.
