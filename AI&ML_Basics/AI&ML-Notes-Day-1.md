@@ -7,13 +7,10 @@
 
 1. **Google Maps**:  
     Uses AI to suggest the fastest route by analyzing traffic in real-time.
-    
 2. **Siri / Alexa / Google Assistant**:  
     Understands your voice and responds like a human.
-    
 3. **Smart Cameras**:  
     Automatically detect your face and focus when you take a photo.
-    
 4. **Self-driving Cars (like Tesla)**:  
     Use sensors, cameras, and AI to drive on roads without human help.
 # What is Machine Learning (ML):
@@ -75,7 +72,6 @@ Deep learning models are built from **layers of interconnected “neurons”**:
 - **Hidden Layers** – Multiple layers extract increasingly abstract features from the data.
     - _Example:_ In image recognition, early layers detect edges, later layers detect shapes, and deeper layers recognize objects.
 - **Output Layer** – Produces the final prediction or classification.
-- 
 Two key processes drive learning:
 1. **Forward Propagation** – Data flows through the network, generating predictions.
 2. **Backpropagation** – The model compares predictions to the correct answers, calculates errors, and adjusts internal weights using optimization algorithms like gradient descent.
