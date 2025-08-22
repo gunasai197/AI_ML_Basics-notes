@@ -65,4 +65,27 @@ Regression in machine learning is a supervised learning technique used to predic
 	   - Multiple linear regression: Uses several input variables for prediction.
 	   - Polynomial regression: Can model nonlinear relationships.
 
+## What is Deep Learning:
+**Deep Learning** is a branch of artificial intelligence (AI) and a subset of machine learning that uses **artificial neural networks with many layers** to process vast amounts of data and learn complex patterns — much like how the human brain processes information.
 
+## How It Works
+
+Deep learning models are built from **layers of interconnected “neurons”**:
+- **Input Layer** – Receives raw data (images, text, audio, etc.).
+- **Hidden Layers** – Multiple layers extract increasingly abstract features from the data.
+    - _Example:_ In image recognition, early layers detect edges, later layers detect shapes, and deeper layers recognize objects.
+- **Output Layer** – Produces the final prediction or classification.
+- 
+Two key processes drive learning:
+1. **Forward Propagation** – Data flows through the network, generating predictions.
+2. **Backpropagation** – The model compares predictions to the correct answers, calculates errors, and adjusts internal weights using optimization algorithms like gradient descent.
+
+## Real world Example:
+
+| Domain                            | Example use cases                                                                                           |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Computer vision                   | Self-driving cars detecting pedestrians & traffic signs; medical imaging detecting tumors.                  |
+| Natural Language Processing (NLP) | Virtual assistants (Siri, Alexa) understanding speech; chatbots for customer service; language translation. |
+| **Speech Recognition**            | Voice typing, real-time meeting transcription, smart device voice control.                                  |
+| **Recommendation Systems**        | Netflix suggesting shows, Amazon recommending products, Spotify curating playlists.                         |
+| Healthcare                        | AI-assisted diagnosis from X-rays/MRIs; drug discovery by simulating molecular interactions.                |
